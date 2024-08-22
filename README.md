@@ -8,7 +8,7 @@ https://www.kaggle.com/c/inaturalist-2019-fgvc6
 EDA - EDA_for_iNaturalist.ipynb
 
 ## Models
-InceptionV3 - InceptionV3_Models_iNaturalist.ipynb
-ResNet50 - ResNet50_Models_iNaturalist.ipynb
-EfficientNetB0 - EfficientNetB0_RF_Models_iNaturalist.ipynb
+InceptionV3 - InceptionV3_Models_iNaturalist.ipynb<br>
+ResNet50 - ResNet50_Models_iNaturalist.ipynb<br>
+EfficientNetB0 - EfficientNetB0_RF_Models_iNaturalist.ipynb<br>
 Random Forest - EfficientNetB0_RF_Models_iNaturalist.ipynb
